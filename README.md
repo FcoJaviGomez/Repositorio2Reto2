@@ -6,4 +6,4 @@
 ## Paso 4: git commit -m "first commit"
 ## Paso 5: git branch -M main
 ## Paso 6: git remote add origin https://github.com/FcoJaviGomez/Repositorio2Reto2.git
-## Paso 7: git push -u origin main
+## Paso 7: git push -u origin main 
